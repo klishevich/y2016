@@ -5,6 +5,40 @@
 layout: page
 permalink: /
 ---
+<div class="metro_cont">
+	<div class="metro metro_program">
+		<a href="/program"><img src="/metro/program.png"/></a>
+		<div class="metro_title"><a href="/program">Программа</a></div>
+	</div>
+	<div class="metro metro_speaker">
+		<a href="/bio"><img src="/metro/speaker.png"/></a>
+		<div class="metro_title"><a href="/bio">Спикеры</a></div>
+	</div>
+	<div class="metro metro_tezis">
+		<a href="/tezis"><img src="/metro/tezis.png"/></a>
+		<div class="metro_title"><a href="/tezis">Тезисы</a></div>
+	</div>
+	<div class="metro metro_participant">
+		<a href="/participants"><img src="/metro/participant.png"/></a>
+		<div class="metro_title"><a href="/participants">Участники</a></div>
+	</div>
+	<div class="metro metro_route">
+		<a href="/route"><img src="/metro/route.png"/></a>
+		<div class="metro_title"><a href="/route">Маршруты</a></div>
+	</div>
+	<div class="metro metro_broshure">
+		<a href="/files/Broschure_AKSTS_rus_compressed.pdf"><img src="/metro/broshure.png"/></a>
+		<div class="metro_title"><a href="/files/Broschure_AKSTS_rus_compressed.pdf">Брошюра АНТОК</a></div>
+	</div>
+	<div class="metro metro_site">
+		<a href="http://www.aksts.ru/"><img src="/metro/site.png"/></a>
+		<div class="metro_title"><a href="http://www.aksts.ru/">Сайт АНТОК</a></div>
+	</div>
+	<div class="metro metro_feedback">
+		<a href="/feedback"><img src="/metro/feedback.png"/></a>
+		<div class="metro_title"><a href="/feedback">Оставить отзыв</a></div>
+	</div>
+</div>
 
 <h1 class="home">Международная научная конференция, посвященная 25-ти летию АНТОК</h1>
 

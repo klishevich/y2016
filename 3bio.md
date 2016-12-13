@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Участники
+title: Спикеры
 permalink: /bio/
 ---
 
