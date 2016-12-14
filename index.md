@@ -40,15 +40,15 @@ permalink: /
 			</div>
 		</div>
 		<div class="col-xs-6 col-md-3">
-			<div class="metro metro_broshure">
-				<a href="/files/Broschure_AKSTS_rus_compressed.pdf"><img src="/metro/broshure.png"/></a>
-				<div class="metro_title"><a href="/files/Broschure_AKSTS_rus_compressed.pdf">Брошюра АНТОК</a></div>
-			</div>
-		</div>
-		<div class="col-xs-6 col-md-3">
 			<div class="metro metro_site">
 				<a href="http://www.aksts.ru/"><img src="/metro/site.png"/></a>
 				<div class="metro_title"><a href="http://www.aksts.ru/">Сайт АНТОК</a></div>
+			</div>
+		</div>
+		<div class="col-xs-6 col-md-3">
+			<div class="metro metro_broshure">
+				<a href="/files/Broschure_AKSTS_rus_compressed.pdf"><img src="/metro/broshure.png"/></a>
+				<div class="metro_title"><a href="/files/Broschure_AKSTS_rus_compressed.pdf">Брошюра АНТОК</a></div>
 			</div>
 		</div>
 		<div class="col-xs-6 col-md-3">
