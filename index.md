@@ -4,7 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 permalink: /
+title: 2016 YG Science Conference
 ---
+
 <div class="metro_cont">
 	<div class="row">
 		<div class="col-xs-6 col-md-3">

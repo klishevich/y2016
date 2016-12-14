@@ -2,6 +2,10 @@
 	display: none;
 }
 
+// .main_title {
+// 	margin-top: -30px;
+// }
+
 .program_title {
 	color: #c00000;
 	font-size: 20px;
@@ -25,15 +29,6 @@
 	font-size: 14px;
 	padding-bottom: 6px;
 	font-style: italic;
-}
-
-.metro_cont {
-	overflow: hidden;
-    margin-top: -30px;
-}
-
-.home {
-	// margin-top: -30px;
 }
 
 .metro {

@@ -1,17 +1,8 @@
 ---
 layout: page
-title: 
+title: PROGRAM / ПРОГРАММА
 permalink: /program/
 ---
-
-<div class="program_title">YOUNG GENERATION SCIENCE CONFERENCE, DEDICATED TO 25th ANNIVERSARY OF AKSTS</div>
-<div class="program_title">МОЛОДЕЖНАЯ НАУЧНАЯ КОНФЕРЕНЦИЯ, ПОСВЯЩЕННАЯ 25-ЛЕТИЮ АНТОК</div>
-
-### Moscow, December 16, 2016
-
-### *Москва, 16 декабря, 2016*
-
-### PROGRAM / ПРОГРАММА
 
 **Декабрь 16 – Пятница / 16 декабря - пятница**
 
