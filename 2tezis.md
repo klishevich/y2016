@@ -1,8 +1,15 @@
 ---
 layout: page
-title: Тезисы
+title: Доклады
 permalink: /tezis/
 ---
+
+## Доклады спикеров
+
+1. Тен Эдис Борисович. [Научно-техническое общество АНТОК. Korean Science and Technology Society AKSTS](/files/Ten_E_B.pdf)
+1. Kim Tae Hee. [Introduction on education and research program implemented by NRF : in the perspective of researchers in Russia](/files/Kim_T_H.pdf)
+
+## Доклады участников
 
 1. Юн В.Л. [ИСПЫТАНИЕ ГИБРИДОВ КУКУРУЗЫ В УСЛОВИЯХ ПРИМОРСКОГО КРАЯ](/tezis_files/tezis_Un_V_L.pdf)
 1. Ким Алексей. [МОЛОДЕЖНАЯ АССОЦИАЦИЯ КОРЕЙЦЕВ МОСКВЫ](/tezis_files/MAKM.pdf)

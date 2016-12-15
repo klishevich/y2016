@@ -50,6 +50,8 @@ permalink: /bio/
 
 ## Kim, Tae Hee
 
+Kim Tae Hee. [Introduction on education and research program implemented by NRF : in the perspective of researchers in Russia](/files/Kim_T_H.pdf)
+
 ### Current Position & Organization 
 
 Representative, National Research Foundation of Korea Moscow Office Executive Director, Korea-Russia S&T Cooperation Center, Moscow 
